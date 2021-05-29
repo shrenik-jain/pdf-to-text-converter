@@ -1,0 +1,123 @@
+SHRENIK JAIN
+C) fi © é & MM] shrenikkjain81@gmail.com | | «919657096852
+I
+
+e Programming Languages: Python, C, C++, Java, Javascript, Julia, MATLAB, Embedded C
+e Concepts: Data Structures, Algorithms, Operating Systems, Object-Oriented Design/Programming
+e Tools & Databases: MySQL, Oracle, IBM Db2, Git, Shell Scripting, Unix Systems
+e Machine Learning: Tensorflow, Keras, Scikit Learn, OpenCV, Natural Language Processing
+e Interpersonal: Team Management, Leadership, Public Soeaking, Teamwork
+
+Content Writer, Exa Mobility (July 2020 - October 2020)
+e Spearheaded the research and development of website content along with senior team members,
+boosting the website traffic by ~15%.
+e Headed, enhanced, and overhauled all content aspects for Exa’s mobile application.
+
+Content Writer, Shinobi Brands (June 2019 - Aug 2019)
+e Proactively identified and resolved gaps in the content development support structure and improved
+workflow processes.
+e Operated with strategic planners, business owners, and other creative team members to conceptualize,
+devise and produce brand stories.
+
+Vishwakarma Institue of Information & Technology, Pune, India (June 2018 to Present)
+Bachelor of Technology (BTech) in Electronics & Telecommunication
+C.G.P.A. - 9.40
+
+Coursework
+
+e Mathematics - Multivariable & Vector Calculus, Differential Equations, Probability & Random Processes
+
+e Computer Science - Data Structures and Algorithms, Design and Analysis of Algorithms
+
+e Electrical Engineering - Signals & Systems, Digital Signal Processing, Information Theory, Control Systems, loT
+
+e Machine Learning - Artificial Neural Networks, Machine Learning
+
+S.M. Choksey Junior College, Pune, India (June 2016 to March 2018)
+Senior Secondary (HSC)
+
+Percentage - 86.62%
+
+The Bishop's School, Pune, India (June 2004 to March 2016)
+Secondary (ICSE)
+
+Percentage - 94.00%
+
+e Deep Learning Specialization (Deeplearning.ai) e Al Classroom (Microsoft)
+e Tensorflow in Practice (Deeplearning.ai) e Artificial Intelligence (Dell Technologies)
+
+Sales Predictor (Time Series Analysis/ ARIMA/LSTM)
+e A Tensorflow implementation undertaken to predict future sales using historic data of ten stores.
+e Used three various models: Linear Regressor, ARIMA, and RNN for prediction and compared their
+performances using MAE and RMSE metrics.
+
+Melody Generator (Python/Scipy)
+e Built a virtual piano with its very own octave, using the base frequency of a single note.
+e Synthesized 4 to 5 tunes using the octave of the virtual piano and python's SciPy and NumPy libraries.
+
+Kindergarten Learning Software (C/Graphics)
+e A Learning-Based Project which imparts knowledge about Alphabets, Numbers, and Shapes.
+e Convenient to help children learn more about the building blocks in an entertaining way.
+e Itis programmed itn C, primarily using its graphics library.
+SHRENIK JAIN
+C) fi © é & MM] shrenikkjain81@gmail.com | | «919657096852
+I
+
+e Programming Languages: Python, C, C++, Java, Javascript, Julia, MATLAB, Embedded C
+e Concepts: Data Structures, Algorithms, Operating Systems, Object-Oriented Design/Programming
+e Tools & Databases: MySQL, Oracle, IBM Db2, Git, Shell Scripting, Unix Systems
+e Machine Learning: Tensorflow, Keras, Scikit Learn, OpenCV, Natural Language Processing
+e Interpersonal: Team Management, Leadership, Public Soeaking, Teamwork
+
+Content Writer, Exa Mobility (July 2020 - October 2020)
+e Spearheaded the research and development of website content along with senior team members,
+boosting the website traffic by ~15%.
+e Headed, enhanced, and overhauled all content aspects for Exa’s mobile application.
+
+Content Writer, Shinobi Brands (June 2019 - Aug 2019)
+e Proactively identified and resolved gaps in the content development support structure and improved
+workflow processes.
+e Operated with strategic planners, business owners, and other creative team members to conceptualize,
+devise and produce brand stories.
+
+Vishwakarma Institue of Information & Technology, Pune, India (June 2018 to Present)
+Bachelor of Technology (BTech) in Electronics & Telecommunication
+C.G.P.A. - 9.40
+
+Coursework
+
+e Mathematics - Multivariable & Vector Calculus, Differential Equations, Probability & Random Processes
+
+e Computer Science - Data Structures and Algorithms, Design and Analysis of Algorithms
+
+e Electrical Engineering - Signals & Systems, Digital Signal Processing, Information Theory, Control Systems, loT
+
+e Machine Learning - Artificial Neural Networks, Machine Learning
+
+S.M. Choksey Junior College, Pune, India (June 2016 to March 2018)
+Senior Secondary (HSC)
+
+Percentage - 86.62%
+
+The Bishop's School, Pune, India (June 2004 to March 2016)
+Secondary (ICSE)
+
+Percentage - 94.00%
+
+e Deep Learning Specialization (Deeplearning.ai) e Al Classroom (Microsoft)
+e Tensorflow in Practice (Deeplearning.ai) e Artificial Intelligence (Dell Technologies)
+
+Sales Predictor (Time Series Analysis/ ARIMA/LSTM)
+e A Tensorflow implementation undertaken to predict future sales using historic data of ten stores.
+e Used three various models: Linear Regressor, ARIMA, and RNN for prediction and compared their
+performances using MAE and RMSE metrics.
+
+Melody Generator (Python/Scipy)
+e Built a virtual piano with its very own octave, using the base frequency of a single note.
+e Synthesized 4 to 5 tunes using the octave of the virtual piano and python's SciPy and NumPy libraries.
+
+Kindergarten Learning Software (C/Graphics)
+e A Learning-Based Project which imparts knowledge about Alphabets, Numbers, and Shapes.
+e Convenient to help children learn more about the building blocks in an entertaining way.
+e Itis programmed itn C, primarily using its graphics library.
+
